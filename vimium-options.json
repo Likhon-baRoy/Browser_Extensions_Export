@@ -8,22 +8,6 @@
       "pattern": "https?://mail.google.com/*"
     },
     {
-      "passKeys": "",
-      "pattern": "https?://rapid-cloud.co/*"
-    },
-    {
-      "passKeys": "",
-      "pattern": "https?://rapid-cloud.co/*"
-    },
-    {
-      "passKeys": "",
-      "pattern": "https?://xhwide1.com/*"
-    },
-    {
-      "passKeys": "",
-      "pattern": "https?://www.netflix.com/*"
-    },
-    {
       "passKeys": "l,j,k,i,m,n,N,p,P,<,>,/,?",
       "pattern": "https?://www.youtube.com/*"
     }

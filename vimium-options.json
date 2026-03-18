@@ -24,11 +24,7 @@
       "pattern": "https?://www.netflix.com/*"
     },
     {
-      "passKeys": "l,j,k,i,m,n,N,p,P",
-      "pattern": "https?://www.youtube.com/*"
-    },
-    {
-      "passKeys": "<,>,/",
+      "passKeys": "l,j,k,i,m,n,N,p,P,<,>,/,?",
       "pattern": "https?://www.youtube.com/*"
     }
   ]
